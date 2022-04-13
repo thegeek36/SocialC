@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746929315582",
+    "project_id": "socialc-9b3f2",
+    "storage_bucket": "socialc-9b3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746929315582:android:029d4aed769738ebb68faf",
+        "android_client_info": {
+          "package_name": "com.priyanshu.socialc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746929315582-r4imif701u7l6u6i19cbaf8o2mcp81d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFmNyUSVRveI6qN04vX_mUbSRQk4xs2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746929315582-r4imif701u7l6u6i19cbaf8o2mcp81d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
